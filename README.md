@@ -13,7 +13,7 @@
 ### Stats 
 <p align="center" >
   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherrie-k&&show_icons=true&theme=dracula&text_color=8b8b8b&bg_color=0000&hide_border=true&layout=compact&custom_title=Languages%20I%20Use&langs_count=8" alt="cherrie-k"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cherrie-k&theme=dracula&bg_color=0000&hide_border=true&show_icons=true&rank_icon=github&hide=stars,issues&show=prs_merged," alt="My GitHub Stats"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cherrie-k&theme=dracula&text_color=8b8b8b&bg_color=0000&hide_border=true&show_icons=true&rank_icon=github&hide=stars,issues&show=prs_merged," alt="My GitHub Stats"/>
 </p>
 
 
@@ -34,18 +34,6 @@
 ![AWS](https://img.shields.io/badge/AWS-FF9900.svg?style=for-the-badge&logo=Amazon&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-
-### Stats ⚡️
-<table style="border:none;margin:0 auto">
-  <tr style="border:none;">
-    <td style="border:none;"><a target="_blank" href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=PROxZIMA&theme=dracula&dates=8b8b8b&background=0000&hide_border=true" alt="My Streak"/></a></td>
-    <td style="border:none;"><a target="_blank" href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=proxzima&include_all_commits=true&count_private=true&show_icons=true&theme=dracula&text_color=8b8b8b&bg_color=0000&hide_border=true&custom_title=PROxZIMA%27s%20Github%20Stats" alt="My Stats"/></a></td>
-  </tr>
-</table>
-<br>
-<br>
 
 ---
 
