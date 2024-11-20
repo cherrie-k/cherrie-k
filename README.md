@@ -1,6 +1,9 @@
 <h1 align="center">Hi! I'm Cherrie Kim</h1>
-<center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gowun+Dodum&pause=1000&center=true&width=435&lines=___%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EA%B9%80%EC%B1%84%EB%A6%AC%EC%9E%85%EB%8B%88%EB%8B%A4.;%EB%B9%88+%EC%B9%B8%EC%9D%84+%EC%B1%84%EC%9A%B0%EA%B8%B0+%EC%9C%84%ED%95%B4+%EC%84%B1%EC%9E%A5%ED%95%98%EA%B3%A0+%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4." alt="Typing SVG" /></a></center>
-
+<div style="text-align: center;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Gowun+Dodum&pause=1000&center=true&width=435&lines=___%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EA%B9%80%EC%B1%84%EB%A6%AC%EC%9E%85%EB%8B%88%EB%8B%A4.;%EB%B9%88+%EC%B9%B8%EC%9D%84+%EC%B1%84%EC%9A%B0%EA%B8%B0+%EC%9C%84%ED%95%B4+%EC%84%B1%EC%9E%A5%ED%95%98%EA%B3%A0+%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4." alt="Typing SVG" />
+  </a>
+</div>
 <br>
 
 ### A little more about me...  
